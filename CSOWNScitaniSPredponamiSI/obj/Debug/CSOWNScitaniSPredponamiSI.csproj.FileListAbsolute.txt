@@ -1,0 +1,10 @@
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CSOWNScitaniSPredponamiSI\CSOWNScitaniSPredponamiSI\obj\Debug\CSOWNScitaniSPredponamiSI.csprojAssemblyReference.cache
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CSOWNScitaniSPredponamiSI\CSOWNScitaniSPredponamiSI\obj\Debug\CSOWNScitaniSPredponamiSI.Form1.resources
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CSOWNScitaniSPredponamiSI\CSOWNScitaniSPredponamiSI\obj\Debug\CSOWNScitaniSPredponamiSI.Properties.Resources.resources
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CSOWNScitaniSPredponamiSI\CSOWNScitaniSPredponamiSI\obj\Debug\CSOWNScitaniSPredponamiSI.csproj.GenerateResource.cache
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CSOWNScitaniSPredponamiSI\CSOWNScitaniSPredponamiSI\obj\Debug\CSOWNScitaniSPredponamiSI.csproj.CoreCompileInputs.cache
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CSOWNScitaniSPredponamiSI\CSOWNScitaniSPredponamiSI\bin\Debug\CSOWNScitaniSPredponamiSI.exe.config
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CSOWNScitaniSPredponamiSI\CSOWNScitaniSPredponamiSI\bin\Debug\CSOWNScitaniSPredponamiSI.exe
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CSOWNScitaniSPredponamiSI\CSOWNScitaniSPredponamiSI\bin\Debug\CSOWNScitaniSPredponamiSI.pdb
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CSOWNScitaniSPredponamiSI\CSOWNScitaniSPredponamiSI\obj\Debug\CSOWNScitaniSPredponamiSI.exe
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CSOWNScitaniSPredponamiSI\CSOWNScitaniSPredponamiSI\obj\Debug\CSOWNScitaniSPredponamiSI.pdb
